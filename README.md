@@ -13,6 +13,7 @@ This project demonstrates the wireless transfer of images using Software Defined
   - Reconstructing received images
   - Calculating quality metrics (PSNR, SSIM, RMSE, PCC, NCC)
 - `demo_video.mp4` – Project demonstration video
+- `SDR_Image_Transfer_Report.pdf` – Complete technical project report (PDF)
 
 ---
 
