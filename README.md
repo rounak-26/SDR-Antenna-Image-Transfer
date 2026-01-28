@@ -2,6 +2,8 @@
 
 This project demonstrates the wireless transfer of images using Software Defined Radio (SDR) with different antenna configurations at 5.8 GHz. The system uses **USRP B210**, **LabVIEW** for real-time transmission and reception, and **Python** for image preparation and quality analysis.
 
+> 📌 Accepted and presented at **IEEE MSPCON 2025**
+
 ---
 
 ## 📁 Project Files
