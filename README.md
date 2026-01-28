@@ -45,6 +45,13 @@ This project demonstrates the wireless transfer of images using Software Defined
 
 ---
 
+## 📄 Project Report
+
+The complete technical report for this project is available here:  
+[`SDR_Image_Transfer_Report.pdf`](./SDR_Image_Transfer_Report.pdf)
+
+---
+
 ## 👨‍💻 Author
 
 **Rounak Deb**  
